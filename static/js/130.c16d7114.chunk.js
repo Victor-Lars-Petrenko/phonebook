@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphonebook=self.webpackChunkphonebook||[]).push([[130],{130:(e,o,s)=>{s.r(o),s.d(o,{default:()=>h});const a="HomePage_container__uNu-e",c="HomePage_title__UFLA3";var n=s(579);const h=()=>(0,n.jsx)("div",{className:a,children:(0,n.jsx)("h1",{className:c,children:"Phonebook welcome page"})})}}]);
+//# sourceMappingURL=130.c16d7114.chunk.js.map
