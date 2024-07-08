@@ -1,0 +1,34 @@
+.item {
+  background-color: paleturquoise;
+  border-radius: 4px;
+  color: MidnightBlue;
+  padding: 4px 24px 8px 24px;
+}
+.item:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.button {
+  width: 100px;
+  position: relative;
+  height: 24px;
+  display: block;
+  margin-top: 8px;
+  padding: 4px;
+  border-radius: 12px;
+  background-color: MidnightBlue;
+  color: snow;
+  opacity: 0.9;
+  transition: all 150ms ease-in-out 150ms;
+}
+.button:hover,
+.button:active {
+  background-color: snow;
+  color: MidnightBlue;
+}
+
+.loaderWrapper {
+  position: absolute;
+  top: -27px;
+  left: 40px;
+}
